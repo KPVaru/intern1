@@ -3,7 +3,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* Navigation */
 nav {
     background-color: #1e3a8a;
     color: white;
@@ -22,7 +21,6 @@ nav {
     text-decoration: underline;
 }
 
-/* Sections */
 section {
     padding: 50px;
     text-align: center;
@@ -53,7 +51,6 @@ section {
     background-color: white;
 }
 
-/* Form */
 input, textarea {
     width: 80%;
     padding: 10px;
